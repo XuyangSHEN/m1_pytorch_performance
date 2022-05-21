@@ -93,4 +93,4 @@ def train_engine(epochs=10):
 
 if __name__ == '__main__':
     # train
-    train_engine(epochs = 10)
+    train_engine(epochs = 20)
