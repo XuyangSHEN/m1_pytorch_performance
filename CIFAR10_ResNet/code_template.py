@@ -8,6 +8,8 @@ import torchvision
 import torchvision.transforms as transforms
 from torchvision.models import resnet50
 
+torch.manual_seed(42)
+
 # Device Configure
 device = torch.device('mps') # m1 GPU
 # device = torch.device('cpu') # CPU
