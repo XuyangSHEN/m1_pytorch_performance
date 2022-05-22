@@ -1,0 +1,192 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 1: takes 4.17 seconds, loss: 4.473, acc: 7.90%
+Epoch 1: takes 4.16 seconds, loss: 4.466, acc: 7.22%
+Epoch 1: takes 4.22 seconds, loss: 4.452, acc: 7.94%
+Epoch 1: takes 4.16 seconds, loss: 4.447, acc: 7.46%
+Epoch 1: takes 4.17 seconds, loss: 4.462, acc: 7.65%
+Epoch 1: takes 4.23 seconds, loss: 4.451, acc: 7.20%
+Epoch 1: takes 4.24 seconds, loss: 4.459, acc: 7.60%
+Epoch 1: takes 4.19 seconds, loss: 4.440, acc: 8.03%
+Epoch 2: takes 2.13 seconds, loss: 2.443, acc: 12.21%
+Epoch 2: takes 2.12 seconds, loss: 2.446, acc: 12.48%
+Epoch 2: takes 2.14 seconds, loss: 2.448, acc: 12.10%
+Epoch 2: takes 2.14 seconds, loss: 2.447, acc: 12.24%
+Epoch 2: takes 2.15 seconds, loss: 2.439, acc: 11.97%
+Epoch 2: takes 2.15 seconds, loss: 2.425, acc: 12.94%
+Epoch 2: takes 2.13 seconds, loss: 2.428, acc: 12.74%
+Epoch 2: takes 2.18 seconds, loss: 2.454, acc: 12.06%
+Epoch 3: takes 2.06 seconds, loss: 2.356, acc: 14.24%
+Epoch 3: takes 2.08 seconds, loss: 2.376, acc: 13.09%
+Epoch 3: takes 2.07 seconds, loss: 2.377, acc: 13.23%
+Epoch 3: takes 2.07 seconds, loss: 2.376, acc: 13.15%
+Epoch 3: takes 2.07 seconds, loss: 2.368, acc: 13.52%
+Epoch 3: takes 2.04 seconds, loss: 2.387, acc: 12.82%
+Epoch 3: takes 2.07 seconds, loss: 2.369, acc: 14.24%
+Epoch 3: takes 2.08 seconds, loss: 2.362, acc: 14.00%
+Epoch 4: takes 2.01 seconds, loss: 2.311, acc: 14.34%
+Epoch 4: takes 2.01 seconds, loss: 2.339, acc: 14.34%
+Epoch 4: takes 2.01 seconds, loss: 2.331, acc: 15.49%
+Epoch 4: takes 2.01 seconds, loss: 2.316, acc: 15.28%
+Epoch 4: takes 2.02 seconds, loss: 2.323, acc: 15.01%
+Epoch 4: takes 2.03 seconds, loss: 2.326, acc: 15.42%
+Epoch 4: takes 2.02 seconds, loss: 2.313, acc: 15.28%
+Epoch 4: takes 2.03 seconds, loss: 2.322, acc: 14.77%
+Epoch 5: takes 2.10 seconds, loss: 2.319, acc: 15.49%
+Epoch 5: takes 2.10 seconds, loss: 2.271, acc: 15.78%
+Epoch 5: takes 2.09 seconds, loss: 2.288, acc: 15.33%
+Epoch 5: takes 2.10 seconds, loss: 2.279, acc: 15.28%
+Epoch 5: takes 2.10 seconds, loss: 2.276, acc: 15.12%
+Epoch 5: takes 2.11 seconds, loss: 2.291, acc: 16.18%
+Epoch 5: takes 2.10 seconds, loss: 2.288, acc: 16.14%
+Epoch 5: takes 2.11 seconds, loss: 2.283, acc: 15.55%
+Epoch 6: takes 2.23 seconds, loss: 2.245, acc: 16.42%
+Epoch 6: takes 2.24 seconds, loss: 2.253, acc: 16.77%
+Epoch 6: takes 2.24 seconds, loss: 2.242, acc: 17.06%
+Epoch 6: takes 2.24 seconds, loss: 2.252, acc: 17.10%
+Epoch 6: takes 2.25 seconds, loss: 2.234, acc: 16.91%
+Epoch 6: takes 2.25 seconds, loss: 2.235, acc: 16.83%
+Epoch 6: takes 2.26 seconds, loss: 2.260, acc: 17.09%
+Epoch 6: takes 2.25 seconds, loss: 2.269, acc: 15.28%
+Epoch 7: takes 2.05 seconds, loss: 2.210, acc: 17.58%
+Epoch 7: takes 2.05 seconds, loss: 2.209, acc: 17.70%
+Epoch 7: takes 2.05 seconds, loss: 2.196, acc: 18.93%
+Epoch 7: takes 2.04 seconds, loss: 2.233, acc: 16.98%
+Epoch 7: takes 2.06 seconds, loss: 2.217, acc: 18.05%
+Epoch 7: takes 2.05 seconds, loss: 2.225, acc: 17.81%
+Epoch 7: takes 2.06 seconds, loss: 2.222, acc: 17.54%
+Epoch 7: takes 2.08 seconds, loss: 2.223, acc: 17.23%
+Epoch 8: takes 2.03 seconds, loss: 2.163, acc: 19.70%
+Epoch 8: takes 2.02 seconds, loss: 2.185, acc: 18.77%
+Epoch 8: takes 2.03 seconds, loss: 2.195, acc: 18.42%
+Epoch 8: takes 2.05 seconds, loss: 2.199, acc: 18.66%
+Epoch 8: takes 2.04 seconds, loss: 2.177, acc: 18.78%
+Epoch 8: takes 2.04 seconds, loss: 2.182, acc: 19.54%
+Epoch 8: takes 2.05 seconds, loss: 2.179, acc: 19.25%
+Epoch 8: takes 2.06 seconds, loss: 2.173, acc: 18.78%
+Epoch 9: takes 2.03 seconds, loss: 2.142, acc: 20.58%
+Epoch 9: takes 2.02 seconds, loss: 2.139, acc: 20.67%
+Epoch 9: takes 2.02 seconds, loss: 2.138, acc: 19.79%
+Epoch 9: takes 2.04 seconds, loss: 2.153, acc: 20.46%
+Epoch 9: takes 2.03 seconds, loss: 2.141, acc: 20.67%
+Epoch 9: takes 2.04 seconds, loss: 2.159, acc: 19.82%
+Epoch 9: takes 2.05 seconds, loss: 2.117, acc: 20.56%
+Epoch 9: takes 2.04 seconds, loss: 2.148, acc: 20.27%
+Epoch 10: takes 2.12 seconds, loss: 2.120, acc: 21.22%
+Epoch 10: takes 2.13 seconds, loss: 2.114, acc: 22.00%
+Epoch 10: takes 2.13 seconds, loss: 2.092, acc: 21.66%
+Epoch 10: takes 2.13 seconds, loss: 2.100, acc: 21.46%
+Epoch 10: takes 2.14 seconds, loss: 2.106, acc: 22.26%
+Epoch 10: takes 2.13 seconds, loss: 2.117, acc: 21.36%
+Epoch 10: takes 2.13 seconds, loss: 2.134, acc: 20.91%
+Epoch 10: takes 2.14 seconds, loss: 2.111, acc: 20.77%
+Epoch 11: takes 2.09 seconds, loss: 2.090, acc: 22.22%
+Epoch 11: takes 2.10 seconds, loss: 2.096, acc: 22.64%
+Epoch 11: takes 2.09 seconds, loss: 2.088, acc: 22.77%
+Epoch 11: takes 2.09 seconds, loss: 2.082, acc: 22.48%
+Epoch 11: takes 2.09 seconds, loss: 2.089, acc: 21.79%
+Epoch 11: takes 2.09 seconds, loss: 2.064, acc: 23.10%
+Epoch 11: takes 2.09 seconds, loss: 2.074, acc: 22.35%
+Epoch 11: takes 2.09 seconds, loss: 2.110, acc: 21.17%
+Epoch 12: takes 2.05 seconds, loss: 2.039, acc: 24.16%
+Epoch 12: takes 2.06 seconds, loss: 2.048, acc: 23.76%
+Epoch 12: takes 2.07 seconds, loss: 2.046, acc: 23.06%
+Epoch 12: takes 2.06 seconds, loss: 2.030, acc: 23.65%
+Epoch 12: takes 2.07 seconds, loss: 2.069, acc: 22.90%
+Epoch 12: takes 2.08 seconds, loss: 2.048, acc: 22.72%
+Epoch 12: takes 2.07 seconds, loss: 2.051, acc: 24.22%
+Epoch 12: takes 2.07 seconds, loss: 2.072, acc: 23.84%
+Epoch 13: takes 2.04 seconds, loss: 2.054, acc: 23.97%
+Epoch 13: takes 2.08 seconds, loss: 2.019, acc: 24.56%
+Epoch 13: takes 2.11 seconds, loss: 2.017, acc: 25.20%
+Epoch 13: takes 2.10 seconds, loss: 2.045, acc: 24.29%
+Epoch 13: takes 2.11 seconds, loss: 2.019, acc: 24.13%
+Epoch 13: takes 2.12 seconds, loss: 2.016, acc: 25.63%
+Epoch 13: takes 2.13 seconds, loss: 2.024, acc: 24.74%
+Epoch 13: takes 2.17 seconds, loss: 2.025, acc: 24.19%
+Epoch 14: takes 2.16 seconds, loss: 1.995, acc: 25.17%
+Epoch 14: takes 2.13 seconds, loss: 1.995, acc: 25.14%
+Epoch 14: takes 2.12 seconds, loss: 1.986, acc: 25.33%
+Epoch 14: takes 2.08 seconds, loss: 2.008, acc: 24.90%
+Epoch 14: takes 2.20 seconds, loss: 2.038, acc: 24.27%
+Epoch 14: takes 2.15 seconds, loss: 2.039, acc: 24.74%
+Epoch 14: takes 2.15 seconds, loss: 1.994, acc: 25.74%
+Epoch 14: takes 2.13 seconds, loss: 2.017, acc: 24.64%
+Epoch 15: takes 2.11 seconds, loss: 1.956, acc: 26.69%
+Epoch 15: takes 2.11 seconds, loss: 1.975, acc: 25.78%
+Epoch 15: takes 2.10 seconds, loss: 1.963, acc: 26.05%
+Epoch 15: takes 2.11 seconds, loss: 1.983, acc: 25.92%
+Epoch 15: takes 2.11 seconds, loss: 2.010, acc: 25.30%
+Epoch 15: takes 2.12 seconds, loss: 1.974, acc: 26.10%
+Epoch 15: takes 2.10 seconds, loss: 1.989, acc: 25.92%
+Epoch 15: takes 2.11 seconds, loss: 2.006, acc: 25.74%
+Epoch 16: takes 2.25 seconds, loss: 1.953, acc: 27.17%
+Epoch 16: takes 2.25 seconds, loss: 1.980, acc: 27.26%
+Epoch 16: takes 2.25 seconds, loss: 1.953, acc: 26.59%
+Epoch 16: takes 2.26 seconds, loss: 1.944, acc: 26.53%
+Epoch 16: takes 2.26 seconds, loss: 1.931, acc: 28.30%
+Epoch 16: takes 2.25 seconds, loss: 1.979, acc: 26.24%
+Epoch 16: takes 2.25 seconds, loss: 1.961, acc: 27.62%
+Epoch 16: takes 2.26 seconds, loss: 1.942, acc: 27.44%
+Epoch 17: takes 2.06 seconds, loss: 1.929, acc: 28.53%
+Epoch 17: takes 2.07 seconds, loss: 1.953, acc: 28.42%
+Epoch 17: takes 2.07 seconds, loss: 1.953, acc: 27.33%
+Epoch 17: takes 2.07 seconds, loss: 1.924, acc: 27.97%
+Epoch 17: takes 2.08 seconds, loss: 1.919, acc: 27.68%
+Epoch 17: takes 2.08 seconds, loss: 1.936, acc: 27.55%
+Epoch 17: takes 2.08 seconds, loss: 1.919, acc: 28.56%
+Epoch 17: takes 2.08 seconds, loss: 1.931, acc: 27.41%
+Epoch 18: takes 2.03 seconds, loss: 1.892, acc: 29.12%
+Epoch 18: takes 2.04 seconds, loss: 1.893, acc: 27.71%
+Epoch 18: takes 2.06 seconds, loss: 1.938, acc: 27.82%
+Epoch 18: takes 2.04 seconds, loss: 1.915, acc: 28.45%
+Epoch 18: takes 2.05 seconds, loss: 1.916, acc: 28.58%
+Epoch 18: takes 2.06 seconds, loss: 1.912, acc: 29.30%
+Epoch 18: takes 2.06 seconds, loss: 1.907, acc: 27.98%
+Epoch 18: takes 2.06 seconds, loss: 1.930, acc: 28.62%
+Epoch 19: takes 2.04 seconds, loss: 1.870, acc: 29.79%
+Epoch 19: takes 2.05 seconds, loss: 1.879, acc: 30.27%
+Epoch 19: takes 2.05 seconds, loss: 1.875, acc: 28.96%
+Epoch 19: takes 2.06 seconds, loss: 1.862, acc: 31.73%
+Epoch 19: takes 2.04 seconds, loss: 1.879, acc: 30.45%
+Epoch 19: takes 2.04 seconds, loss: 1.899, acc: 29.66%
+Epoch 19: takes 2.05 seconds, loss: 1.872, acc: 30.82%
+Epoch 19: takes 2.09 seconds, loss: 1.908, acc: 29.82%
+Epoch 20: takes 2.10 seconds, loss: 1.838, acc: 30.98%
+Finished training in 44.09 seconds; Avg: 2.20 seconds
+Epoch 20: takes 2.11 seconds, loss: 1.847, acc: 29.92%
+Finished training in 44.04 seconds; Avg: 2.20 seconds
+Epoch 20: takes 2.10 seconds, loss: 1.849, acc: 30.99%
+Finished training in 44.10 seconds; Avg: 2.20 seconds
+Epoch 20: takes 2.11 seconds, loss: 1.848, acc: 31.04%
+Finished training in 44.05 seconds; Avg: 2.20 seconds
+Epoch 20: takes 2.11 seconds, loss: 1.877, acc: 30.22%
+Finished training in 44.05 seconds; Avg: 2.20 seconds
+Epoch 20: takes 2.11 seconds, loss: 1.838, acc: 31.86%
+Finished training in 44.05 seconds; Avg: 2.20 seconds
+Epoch 20: takes 2.07 seconds, loss: 1.878, acc: 30.22%
+Finished training in 44.05 seconds; Avg: 2.20 seconds
+Epoch 20: takes 2.11 seconds, loss: 1.853, acc: 30.91%
+Finished training in 44.11 seconds; Avg: 2.21 seconds
+Test accuracy:31.84%
+Test accuracy:29.04%
+Test accuracy:29.44%
+Test accuracy:30.88%
+Test accuracy:33.04%
+Test accuracy:31.76%
+Test accuracy:31.12%
+Test accuracy:31.04%

@@ -1,0 +1,24 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 1: takes 6.71 seconds, loss: 2.609, acc: 14.04%
+Epoch 2: takes 4.19 seconds, loss: 2.103, acc: 22.07%
+Epoch 3: takes 4.37 seconds, loss: 1.970, acc: 27.61%
+Epoch 4: takes 4.24 seconds, loss: 1.863, acc: 31.97%
+Epoch 5: takes 4.45 seconds, loss: 1.773, acc: 35.29%
+Epoch 6: takes 4.65 seconds, loss: 1.680, acc: 38.52%
+Epoch 7: takes 4.38 seconds, loss: 1.596, acc: 42.08%
+Epoch 8: takes 4.45 seconds, loss: 1.512, acc: 45.41%
+Epoch 9: takes 4.36 seconds, loss: 1.443, acc: 47.78%
+Epoch 10: takes 4.46 seconds, loss: 1.370, acc: 50.66%
+Epoch 11: takes 4.47 seconds, loss: 1.292, acc: 53.55%
+Epoch 12: takes 4.46 seconds, loss: 1.218, acc: 56.44%
+Epoch 13: takes 4.49 seconds, loss: 1.150, acc: 59.31%
+Epoch 14: takes 4.30 seconds, loss: 1.073, acc: 61.82%
+Epoch 15: takes 4.69 seconds, loss: 0.995, acc: 64.70%
+Epoch 16: takes 4.37 seconds, loss: 0.915, acc: 67.75%
+Epoch 17: takes 4.23 seconds, loss: 0.841, acc: 70.54%
+Epoch 18: takes 4.35 seconds, loss: 0.765, acc: 72.92%
+Epoch 19: takes 4.51 seconds, loss: 0.685, acc: 75.90%
+Epoch 20: takes 4.35 seconds, loss: 0.626, acc: 78.19%
+Finished training in 90.48 seconds; Avg: 4.52 seconds
+Test accuracy:43.40%
