@@ -8,12 +8,13 @@
 
 ## Performance Experiment Results
 
-|                               | M1 Pro 8 Core | M1 Pro 14 GCore | NV 3070 Laptop | NV A100-40g x1 | NV A100-40g x8 | NV A100-40g x16 |
-| ----------------------------- | ------------- | --------------- | -------------- | -------------- | -------------- | --------------- |
-| Training Time (seconds/epoch) |               | 104.70          | 7.82           | 4.50           | 2.22           | 2.01            |
-| Test Acc (% after 20 epochs)  |               | 43.38           | 56.11          | 43.40          | 31.02          | 31.02           |
+| CIFAR 10 ResNet50             | M1 Pro 8 Core | M1 Pro 14 GCore | NV 3070 Laptop | NV A100-40g x1 | NV A100-40g x8 | NV A100-40g x16 |
+| ----------------------------- | :-----------: | :-------------: | :------------: | :------------: | :------------: | :-------------: |
+| Training Time (seconds/epoch) |               |     104.70      |      7.82      |      4.50      |      2.22      |      2.01       |
+| Test Acc (% after 20 epochs)  |               |      43.38      |     56.11      |     43.40      |     31.02      |      31.02      |
 
 - **Environment**
+  - Code: [Train a ResNet-50 classifier on CIFAR10](CIFAR10_ResNet/code_template.ipynb)
   - M1 Pro: PyTorch 1.12, Python 3.10
   - 3070 Laptop: cuda 11.6, PyTorch 1.11, Python 3.10
   - A100-40g: cuda 11.2, PyTorch1.11, Python 3.10, Distributed Data Parallel (DDP)
