@@ -23,6 +23,7 @@
 
 
 ## Install Conda
+- Check my video: https://www.bilibili.com/video/BV1cR4y1w7CF/
 
 - Miniconda: [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 
